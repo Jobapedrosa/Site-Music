@@ -6,6 +6,7 @@ body {
 }
 
 h1 {
+    background-color: #F4A460;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -23,20 +24,13 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.paragrafo-2 {
+.paragrafo2 {
     background-color: burlywood;
 }
 
 img {
     width: 250px;
 }
-
 .imagem-banda {
     width: 300px;
-    padding-top: 100px;
-}
-
-.titulo-1 {
-    padding-top: 50px;
-    padding-bottom: 50px;
 }
