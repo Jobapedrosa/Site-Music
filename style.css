@@ -51,6 +51,7 @@ img {
 
 .conteudo-2 {
     text-align: center;
+
 }
 
 .lista {
@@ -58,4 +59,8 @@ img {
     font-size: 30px;
     display: inline-block;
     background-color: #F4A460;
+   
+}
+.site:hover {
+    color: red;
 }
