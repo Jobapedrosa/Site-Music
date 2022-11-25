@@ -49,13 +49,12 @@ img {
     margin-top: 50px;
 }
 
-.conteudo-2 {
-    text-align: center;
-}
-
 .lista {
     text-align: justify;
     font-size: 30px;
-    display: inline-block;
+    display: inline-block; 
     background-color: #F4A460;
+}
+li {
+    list-style-type: none;
 }
